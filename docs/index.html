@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/images/favicon.ico" type="image/x-icon">
+    <title>Lading Page Ecommerce</title>
+    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="./assets/css/main.styles.css">
+    <script defer src="./assets/scripts/index.js"></script>
+
+</head>
+<body>
+    <div class="container">
+        <div class="container-text">
+            <h3 class="container-text--titulo">Receba as <span>MELHORES</span> promoções!</h3>
+            <p class="container-text--descricao">
+                Cadastre-se e receba as melhores promoções que temos sobre figuras de ação.
+                <span>Até 80% de desconto! </span>
+            </p>
+            <div class="container-text-input">
+                <input 
+                    class="container-text-input--input"
+                    type="email"
+                    placeholder="exemple@gmail.com"
+                    onfocus="removerError()"
+                    required
+                />
+                <button 
+                    class="container-text-input--button"
+                    onclick="salvar()"
+                >
+                    SALVAR
+                </button>
+            </div>
+
+            <div class="input-null">Erro ao salvar email. Verifique se digitou um email válido!</div>
+        </div>
+        <div class="container-image">
+            <img
+                class="container-image--image"
+                src="./assets/images/figure_action.jpg" 
+                alt="Actions Figures"
+            >
+        </div>
+    </div>
+</body>
+</html>
