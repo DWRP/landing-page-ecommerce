@@ -14,11 +14,11 @@ Para funcionar corretamente, não há nenhuma configuração específica.
 
 ## Instalação
 
-Após clonar, o projeto não precisa ser instalado, já foi feito em HTML:5 raíz, para ser necessário somente rodar o projeto:
+Após clonar, o projeto não precisa ser instalado, já foi feito em HTML:5 raíz, para ser necessário somente rodar o projeto.
 
 ## Execução
 
-Para rodar, utilize o Visual Studio com a Extensão Live Server para criar um micro servidor na máquina. Ou [Acesse Aqui](https://douglaswalas.dev.br/lading-page-ecommerce) para ver a página no ar.
+Para rodar, utilize o Visual Studio com a Extensão Live Server para criar um micro servidor na máquina. Ou [Acesse Aqui](https://douglaswalas.dev.br/landing-page-ecommerce) para ver a página no ar.
 
 
 ## Meta
