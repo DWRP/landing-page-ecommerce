@@ -2,12 +2,11 @@
 
 Uma página de landing page para ecommerce - [Hiring Coders](https://www.hiringcoders.com.br/).
 
-![GitHub manifest version](https://img.shields.io/github/manifest-json/v/DWRP/happy?color=%2300FF&style=flat-square)
 ![GitHub Author](https://img.shields.io/badge/Autor-Douglas%20Walas-green?color=green&label=Autor&style=flat-square)
 
 Projeto intensivo e gratuito de programação, fornecido pela [Gama Academy](https://www.gama.academy/), trabalhando com a VTEX usando React, Typescript e até GraphQL.
 
-![LADING_PAGE]()
+![LADING_PAGE](/docs/assets/images/pagina-final.png)
 
 ## Configuração
 
